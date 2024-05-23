@@ -46,13 +46,13 @@ I started studying programming because of my passion in the field of technology,
 
 ## <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/MarcosLombardo" target="_blank">
+<a href="https://github.com/MarcosLombardo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcoslombardo/" target="_blank">
+<a href="https://linkedin.com/in/marcoslombardo/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/marcosslombardo" target="_blank">
+<a href="https://www.behance.net/marcosslombardo" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
