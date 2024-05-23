@@ -1,21 +1,21 @@
 <h1 align="center">
-Hi, I'm Marcos!
+Hola, soy Marcos!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <br/>
 <p align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Full+Stack;Diseñador+UX/UI&center=true&width=380&height=45" alt="Typing SVG">
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<h4 align="center">Full Stack Developer and UX/UI Designer, always learning.
+<h4 align="center">Desarrollador Full Stack y Diseñador UX/UI, siempre en constante aprendizaje.
 
-I started studying programming because of my passion in the field of technology, in which I am constantly aware of all its novelties. I am a Full Stack Developer, but with preference in front end development.</h4>
+Empecé a estudiar programación por mi pasión en el campo de la tecnología, en el que intento estar constantemente al tanto de todas sus novedades. Soy desarrollador Full Stack, pero con preferencia en el desarrollo front-end.</h4>
 
 <br/><br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tecnologías y herramientas</b>
 <br>
 
 <div align="center">  
@@ -44,7 +44,7 @@ I started studying programming because of my passion in the field of technology,
 
 <br/><br/>
 
-## <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Connect with me  
+## <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> <b>Conecta conmigo</b> 
 <div align="center">
 <a href="https://github.com/MarcosLombardo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
