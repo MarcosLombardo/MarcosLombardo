@@ -48,6 +48,6 @@ Empecé a estudiar programación por mi pasión en el campo de la tecnología, e
 <div align="center">
 <a href="https://marcoslombardo.vercel.app/" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-Marcos.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white alt=Portfolio style="margin-bottom: 5px;"/></a>
 <a href="https://linkedin.com/in/marcoslombardo" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-MarcosIn-0077B5?style=flat&logo=Linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;"/></a>
-<a href="mailto:marcoslombardo28@gmail.com" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-marcoslombardo28-D14836?style=flat&logo=Gmail&logoColor=white alt=Mail style="margin-bottom: 5px;"/></a>
+<a href="mailto:marcoslombardo28@gmail.com" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-@marcoslombardo-D14836?style=flat&logo=Gmail&logoColor=white alt=Mail style="margin-bottom: 5px;"/></a>
 <a href="https://www.behance.net/marcosslombardo" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=Behance&logoColor=white alt=Behance style="margin-bottom: 5px;"/></a>
 </div>  
