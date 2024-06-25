@@ -46,8 +46,8 @@ Empecé a estudiar programación por mi pasión en el campo de la tecnología, e
 
 ## <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> <b>Conecta conmigo</b> 
 <div align="center">
-<a href="https://marcoslombardo.vercel.app/" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white alt=Portfolio style="margin-bottom: 5px;"/></a>
-<a href="https://linkedin.com/in/marcoslombardo" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;"/></a>
+<a href="https://marcoslombardo.vercel.app/" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-marcoslombardo-3423A6?style=flat&logo=Google-Chrome&logoColor=white alt=Portfolio style="margin-bottom: 5px;"/></a>
+<a href="https://linkedin.com/in/marcoslombardo" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-MarcosIn-0077B5?style=flat&logo=Linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;"/></a>
 <a href="mailto:marcoslombardo28@gmail.com" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-marcoslombardo28-D14836?style=flat&logo=Gmail&logoColor=white alt=Mail style="margin-bottom: 5px;"/></a>
 <a href="https://www.behance.net/marcosslombardo" target="_blank" style="padding: 2px;"><img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=Behance&logoColor=white alt=Behance style="margin-bottom: 5px;"/></a>
 </div>  
