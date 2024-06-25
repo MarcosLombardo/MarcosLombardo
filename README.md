@@ -46,6 +46,7 @@ Empecé a estudiar programación por mi pasión en el campo de la tecnología, e
 
 ## <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> <b>Conecta conmigo</b> 
 <div align="center">
+	<a href="https://www.adityavsingh.com" target="_blank"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://github.com/MarcosLombardo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
